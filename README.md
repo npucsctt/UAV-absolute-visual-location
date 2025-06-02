@@ -134,12 +134,6 @@ from geovisnet.visualization import visualize_attention
 visualize_attention(model, image_pair, save_path='./attention_maps/')
 ```
 
-## 📚 文档
-
-- [安装指南](docs/installation.md)
-- [使用指南](docs/usage.md)
-- [API文档](docs/api.md)
-
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request！
