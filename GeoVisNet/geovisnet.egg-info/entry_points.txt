@@ -1,0 +1,4 @@
+[console_scripts]
+geovisnet-evaluate = scripts.evaluate:main
+geovisnet-test = scripts.test:main
+geovisnet-train = scripts.train:main

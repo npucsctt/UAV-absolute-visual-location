@@ -1,0 +1,33 @@
+# Core dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+timm>=0.6.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Image processing
+opencv-python>=4.5.0
+Pillow>=8.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Progress bars and utilities
+tqdm>=4.62.0
+
+# Scientific computing
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Configuration and logging
+pyyaml>=5.4.0
+
+# Development and testing (optional)
+pytest>=6.2.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipywidgets>=7.6.0
