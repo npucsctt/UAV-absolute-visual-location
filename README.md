@@ -144,4 +144,4 @@ visualize_attention(model, image_pair, save_path='./attention_maps/')
 
 ## 🙏 致谢
 
-感谢UAV-VisLoc数据集的提供者以及开源社区的贡献。
+感谢UAV-VisLoc数据集的提供者以及开源社区的贡献。本项目使用 EfficientNet 作为特征提取骨干网络，特此感谢 EfficientNet 的作者及其开源实现（参考论文：Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. In International Conference on Machine Learning (ICML)）。
